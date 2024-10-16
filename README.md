@@ -90,15 +90,18 @@ Steps in the ELT are as follows:
     <br>
 
     * DOCUMENTATION ON DBT-CLOUD: 
-    <br>
-    ![dbt-documentation](./images/dbt_documentation.JPG)
 
+    
+    ![dbt-documentation](./images/dbt_documentation.JPG)
+   
     * LINEAGE GRAPH ON DBT-CLOUD:
-    <br>
+
+   
     ![dbt-lineage](./images/dbt_lineage_graph.JPG)
 
     * ELT PIPELINE VISUALIZATION  ON PREFECT CLOUD 
-    <br>
+
+   
     ![Prefect ETL](./images/prefect_flow.JPG)
 1. Transformed Data from BigQuery is used for Reporting and Visualization using Looker Studio to produce Dashboards
 
