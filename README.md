@@ -175,6 +175,6 @@ Through this project we were able to successfully build a ELT pipeline end to en
 
 ## References & Resources 
 ---
-Find them references [here](docs/info_references.md) & resources [here](docs/info_resources.md)
+Find the references [here](docs/info_references.md) & resources [here](docs/info_resources.md)
 
 [Back To Top](#data-engineering-zoomcamp-capstone-project)
